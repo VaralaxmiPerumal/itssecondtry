@@ -1,1 +1,5 @@
+<<<< HEAD
 Hello
+=======
+Hi
+>>>>>>> 6cd2206 (master files are modified and committed)
